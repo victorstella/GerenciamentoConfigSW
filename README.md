@@ -4,7 +4,7 @@ Observação: nossos ambientes locais ja estavam com o git configurado
 
 Comandos realizados:  
 
-Victor
+### Victor
 
 echo "# GerenciamentoConfigSW" >> README.md  
 git init  
@@ -15,7 +15,7 @@ git branch -M main
 git remote add origin git@github.com:victorstella/GerenciamentoConfigSW.git  
 git push -u origin main  
 
-Vinicius
+### Vinicius
 
 git clone https://github.com/victorstella/GerenciamentoConfigSW.git  
 git branch local  
