@@ -1,3 +1,6 @@
+Victor Daniel Stella - Paiva GRR20200234  
+Vinicius Yoshida - GRR20190475  
+
 # GerenciamentoConfigSW
 
 Observação: nossos ambientes locais ja estavam com o git configurado  
