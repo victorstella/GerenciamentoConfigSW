@@ -1,3 +1,4 @@
 *.o
 *.tmp
 arquivo_local.txt
+node_modules

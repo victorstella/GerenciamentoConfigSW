@@ -25,3 +25,25 @@ git commit -m "..."
 git push  
 git checkout main  
 git merge local  
+
+### Victor
+
+git checkout -b new-feature
+mkdir node_modules
+cd node_modules
+touch file.txt
+cd ..
+git add .
+git commit -m "new feature added"
+git pull
+git push --set-upstream origin new-feature
+git checkout main
+
+Pull request criado manualmente através da interface web, da branch new-feature para a main, feito o merge e a branch new-feature foi deletada.
+
+touch .gitignore
+echo "node_modules" >> .gitignore
+git add .
+git commit -m ".gitignore criado"
+git pull
+git push
